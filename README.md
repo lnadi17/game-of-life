@@ -1,4 +1,4 @@
-# game-of-life
+# Game of Life
 Game of Life simulator created for the Hack assembly language. 
 This project was developed as part of the Nand2Tetris course. 
 To test the project, you will need the CPU Emulator program. 
